@@ -105,15 +105,7 @@ jupyter notebook CNN_Image_Classifier.ipynb
 
 ---
 
-## 🔗 Related Projects
-
-- [RAG Document Chatbot](https://github.com/TejashwiC/rag-document-chatbot)
-- [Text Emotion Classifier](https://github.com/TejashwiC/text-emotion-classifier)
-- [Hindi Sentiment Classifier](https://github.com/TejashwiC/hindi-sentiment-classifier)
-
----
-
 ## 👩‍💻 Author 
 
-**Papudesi Mohitha**
-🔗 [LinkedIn](www.linkedin.com/in/chennaiah-gari-tejashwi-9b219428a) · [GitHub](https://github.com/TejashwiC) · 📧 tejashwi46@gmail.com
+**Chennaiahgari Tejashwi**
+🔗 [LinkedIn](https://www.linkedin.com/in/chennaiah-gari-tejashwi/) · [GitHub](https://github.com/TejashwiC) · 📧 tejashwi46@gmail.com
